@@ -8,8 +8,6 @@ Created with `Visual Studio 2022` & Windows Forms App (.NET Framework) Templates
 
 - Project Demonstration (In *Bahasa*) :
 
-Visit on : **[Rafi's Blogspot](https://rafifiaan-if.blogspot.com/2023/09/tugas-2-media-capture-app.html)** 
-
 </br>
 
 *Thank you for visiting this repository, stay tuned for more projects!*
